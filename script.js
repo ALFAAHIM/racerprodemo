@@ -254,5 +254,5 @@ document.querySelectorAll('.why-card').forEach(card => {
   });
 });
 
-console.log('%c D Gun Automotive 🚗✨ ', 'background:#d4a940;color:#000;font-weight:bold;font-size:1.2rem;padding:4px 12px;border-radius:4px;');
+console.log('%c Racer Pro Automotive 🚗✨ ', 'background:#d4a940;color:#000;font-weight:bold;font-size:1.2rem;padding:4px 12px;border-radius:4px;');
 console.log('%c Premium Car Wash & Detailing — Mudickal, Ernakulam ', 'color:#d4a940;font-size:0.9rem;');
